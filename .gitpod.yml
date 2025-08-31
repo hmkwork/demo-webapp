@@ -1,0 +1,7 @@
+tasks:
+  - init: echo "Gitpod setup starting..."
+    command: echo "Gitpod ready!"
+
+vscode:
+  extensions:
+    - ritwickdey.LiveServer
